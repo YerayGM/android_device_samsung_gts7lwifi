@@ -1,3 +1,6 @@
+TARGET_DISABLE_EPPE := true
+TARGET_USE_BORE_SCHED := true
+
 #
 # SPDX-FileCopyrightText: 2024 The LineageOS Project
 # SPDX-License-Identifier: Apache-2.0
